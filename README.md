@@ -1,4 +1,4 @@
-# TugasModul3
+# Volume Balok
 Tugas modul 3 praktikum
 # Documentation practice
 This is a simple project to practice creating documentation in a README file.
